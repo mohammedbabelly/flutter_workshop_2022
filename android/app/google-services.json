@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417923353578",
+    "project_id": "springworkshop2022",
+    "storage_bucket": "springworkshop2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417923353578:android:c6d467c57971bc90ed0093",
+        "android_client_info": {
+          "package_name": "com.example.workshop22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417923353578-hkvbb4bmr10ku2hqp4mia63761k802oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXzoIRYxNV5BVzmkuE4Bm3Va0akOl4lFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417923353578-hkvbb4bmr10ku2hqp4mia63761k802oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
